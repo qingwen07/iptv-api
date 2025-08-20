@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-19 18:52:38,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-08-20 18:54:58,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -186,6 +186,7 @@ CETV1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 CETV1,https://cc06.tv12.xyz/23.m3u8
+CETV1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy
 CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 CETV2,https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=58dbb8ad5ad539c0da365c819615222219346bbe2fa8d6e4231da9ad89c4faf34adbae451bebfa99d9b8c9eda32e04a0066231dfd40496610efa4bee9ad5f110baee36b6f4098850d6b507505f
@@ -839,6 +840,7 @@ CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CET
 无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867#http://stream.thmz.com/wxtv5/playlist.m3u8#http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
+江宁新闻,https://migu.188766.xyz/?migutoken=77969fb082a75b798578427f3570edd2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏城市,http://z.b.bkpcp.top/m.php?id=jscs
 江苏城市,https://mursor.ottiptv.cc/migu/626064714.m3u8?migutoken=0789157cccd1f020cf5c1ccb7f53fe9f3779ea53fea723540b68f8050deefaf37b763875ca76b15d9a79162c979bc3bbc7c00a4eb513940b01d423752dee11d602933280a2a01b2df2fcd33928
 江苏影视,http://z.b.bkpcp.top/m.php?id=jsys
