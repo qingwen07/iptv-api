@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-02 19:13:46,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-02-03 19:09:44,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -1526,6 +1526,7 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat2&id=11
+东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=163e6c3e3bd21f2beb6af46d4b6b9353
 
