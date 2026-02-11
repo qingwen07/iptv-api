@@ -1,8 +1,8 @@
 <!--
-注意！这是修复代码或添加新功能的 Pull Request，请仔细确认合并的目标仓库名称。
-不要提交无效的PR（包括个人配置或更新结果的变更），否则将会被直接关闭，严重将会被列入黑名单！
-Attention! This is a Pull Request to fix code or add new functionality. Please carefully confirm the target repository name for the merge.
-Do not submit invalid PR (including personal configuration or result changes), otherwise it will be directly closed, serious will be blacklisted!
+！！！⚠️ 警告⚠️ ！！！更新代码不要使用该功能！！！非维护人员请离开该页面！！！
+如果你是因为更新代码或合并代码产生冲突来到该页面，一定不要点击下方绿色创建按钮！请参考：https://github.com/Guovin/iptv-api/blob/master/docs/tutorial.md，里面有具体解决方法。
+箭头指向的base repository一定不能是主仓库Guovin/iptv-api！否则会将你的代码提交合并到主仓库，导致产生无效请求以及垃圾邮件！
+切勿提交无效的请求（包括个人配置或更新结果等），无效的请求会被直接关闭，累计多次将被加入黑名单，无法使用该项目！
 -->
 
 <!-- PULL REQUEST TEMPLATE -->
